@@ -1,6 +1,15 @@
 {
-  "id": 0,
-  "name": "Base tree",
-  "description": "This is base tree in sketching",
-  "image": "https://raw.githubusercontent.com/VuKhuongDuy/public-image/main/tree0.jpg"
+  "name": "Base tree #0",
+  "description": "This is Base tree in sketching",
+  "image": "https://raw.githubusercontent.com/VuKhuongDuy/public-image/main/tree5.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Scotch Mist" },
+    { "trait_type": "Body", "value": "Robot" },
+    { "trait_type": "Eyes", "value": "Sunglasses" },
+    { "trait_type": "Head Gear", "value": "Violet Crown" },
+    { "trait_type": "Clothes", "value": "Red Stars" },
+    { "trait_type": "Held Item", "value": "Swim Ring" },
+    { "trait_type": "Hands", "value": "Standard" },
+    { "trait_type": "Watermark", "value": "Scrappy Squirrel" }
+  ]
 }
